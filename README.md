@@ -1,9 +1,3 @@
-## Table of Contents
-
----
-
-[toc]
-
 # 简介
 
 ---
@@ -86,7 +80,11 @@ cocmd 集成了由 Aloxaf 开发的 CAPIx，所有线程均支持 CAPI SetCall �
 
 ---
 
+### 设置 SetCall 调用方式
+
 `set CAPI=SetCall Enable/Disable`
+
+### 设置 GetCall 调用方式
 
 `set CAPI=GetCall Enable/Disable`
 
