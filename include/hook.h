@@ -1,0 +1,1 @@
+PVOID HookAPI(HMODULE hMod, PCHAR pOldFunc, PVOID pNewFunc);

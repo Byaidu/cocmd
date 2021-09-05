@@ -1,0 +1,1 @@
+cocmd test\1.bat test\2.bat test\3.bat
