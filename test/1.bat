@@ -1,5 +1,7 @@
 @echo off
 cls
+set a=0
+set b=0
 :loop
 rem echo #1.bat %time% 1>&2
 title time:%time%(1.bat) a:%a%(2.bat) b:%b%(3.bat)
