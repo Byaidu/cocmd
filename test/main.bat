@@ -12,6 +12,7 @@ for /l %%a in (0,1,255) do (
   )
 )
 cls
+echo Time: !time!
 echo Mouse: !MOUSE_X!,!MOUSE_Y!
 echo Key: !all!
 set CAPI=API Call kernel32 Sleep ;100
